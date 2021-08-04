@@ -1,6 +1,8 @@
 {
-  "name": "my-vue3-temp",
-  "version": "0.0.0",
+  "name": "{{projectName}}",
+  "version": "{{projectVersion}}",
+  "description": "{{description}}",
+  "author": "{{author}}",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
